@@ -1,0 +1,7 @@
+from SimpleCV import Image
+
+imgA = Image("ex20.png")
+# Add the image to itself
+
+imgA = imgA + imgA
+imgA.show()

@@ -1,0 +1,10 @@
+from SimpleCV import Image, Color
+
+img = Image("ex24a.jpg")
+
+# Here is where the magic happens
+lines = img.findLines() # The parameter at findLines() regulates the length of a minimum line to be found
+
+# Drawing the lines on the img
+lines.draw(Color.RED, width=2)
+img.show()

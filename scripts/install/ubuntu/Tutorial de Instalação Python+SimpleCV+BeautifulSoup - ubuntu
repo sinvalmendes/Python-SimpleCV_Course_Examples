@@ -1,0 +1,26 @@
+0- Instale o git client no seu computador
+[ubuntu] - Execute "sudo apt-get install git" no terminal
+
+1- Baixe os códigos que estão no repositório: 
+https://github.com/sinvalmendes/Python-SimpleCV_Course_Examples.git
+
+2- Descompacte o .zip que foi baixado.
+
+3- Abra a pasta "scripts" dentro da pasta descompactada.
+
+4- Abra a pasta "install" e logo em seguida abra a pasta correspondente ao seu S.O .
+
+[ubuntu] 5- Execute "sh opencv-install.sh" pelo terminal.
+
+[ubuntu] 6- Execute "sh simplecv-install.sh" pelo terminal.
+
+[ubuntu] 7- Procure por "beautifulsoup" no Ubuntu Software Center e instale o primeiro pacote que aparecer.
+
+-----------------------------------------------------------------------
+[ubuntu] 8- Baixe os arquivos do BeautifulSoup:
+http://www.crummy.com/software/BeautifulSoup/bs4/download/4.2/
+
+[ubuntu] 9- Execute "easy_install beautifulsoup4" pelo terminal.
+
+
+

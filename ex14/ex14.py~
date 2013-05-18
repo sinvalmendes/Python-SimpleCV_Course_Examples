@@ -1,0 +1,8 @@
+from SimpleCV import Image
+img = Image('ex14.png')
+
+# will print ''
+print img.height
+
+# will print ''
+print img.width
